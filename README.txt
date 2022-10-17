@@ -1,0 +1,1 @@
+Se crea este arhcivo README para el sprint inicial por parte de Juan Cepeda.
